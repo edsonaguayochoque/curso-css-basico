@@ -196,6 +196,14 @@ ul {
   text-align: center;
 }
 
+
+
+.foto img{
+    width: 200px;
+    margin: 10px 0;
+    border-radius: 50%;
+}
+
 .stat {
   display: inline-block;
   margin: 0 32px;
