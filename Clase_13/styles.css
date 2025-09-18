@@ -1,0 +1,14 @@
+.color-hex{
+    background-color: #FF5737;
+}
+
+.color-rgb{
+    background-color: rgb(52,152,219);
+}
+
+.color-hsl{
+    background-color: hsl(240, 70%,53% );
+}
+.alpha-100{
+    background-color: rgba(231, 76, 60, 0.8);
+}
